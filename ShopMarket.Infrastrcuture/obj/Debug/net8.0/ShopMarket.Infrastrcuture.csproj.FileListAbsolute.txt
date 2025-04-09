@@ -1,0 +1,15 @@
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Infrastrcuture.deps.json
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Infrastrcuture.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Infrastrcuture.pdb
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.AssemblyInfoInputs.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.AssemblyInfo.cs
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.csproj.CoreCompileInputs.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\refint\ShopMarket.Infrastrcuture.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.pdb
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ref\ShopMarket.Infrastrcuture.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.csproj.AssemblyReference.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Core.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Core.pdb
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMark.A8CD8983.Up2Date

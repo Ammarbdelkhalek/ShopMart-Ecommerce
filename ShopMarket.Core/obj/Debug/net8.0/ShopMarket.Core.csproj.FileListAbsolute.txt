@@ -1,0 +1,14 @@
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\bin\Debug\net8.0\ShopMarket.Core.deps.json
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\bin\Debug\net8.0\ShopMarket.Core.runtimeconfig.json
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\bin\Debug\net8.0\ShopMarket.Core.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\bin\Debug\net8.0\ShopMarket.Core.pdb
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.csproj.AssemblyReference.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.AssemblyInfoInputs.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.AssemblyInfo.cs
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\refint\ShopMarket.Core.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.pdb
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.genruntimeconfig.cache
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ref\ShopMarket.Core.dll
