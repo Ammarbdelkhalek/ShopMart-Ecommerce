@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D02Y3/XjSGA=",
+  "dgSpecHash": "r5NCyU3Ssf0=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
+  "projectFilePath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

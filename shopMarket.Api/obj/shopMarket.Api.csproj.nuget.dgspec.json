@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj": {}
+    "d:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj": {
+    "d:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj",
+        "projectUniqueName": "d:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj",
         "projectName": "shopMarket.Api",
-        "projectPath": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj",
+        "projectPath": "d:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\shopMarket.Api.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\obj\\",
+        "outputPath": "d:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
-                "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
               },
-              "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
-                "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj"
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj"
               },
-              "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj": {
-                "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj"
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj"
               }
             }
           }
@@ -84,6 +84,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
@@ -109,14 +113,14 @@
         }
       }
     },
-    "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
+    "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
+        "projectUniqueName": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
         "projectName": "ShopMarket.Core",
-        "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
+        "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\obj\\",
+        "outputPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,14 +189,14 @@
         }
       }
     },
-    "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
+    "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj",
+        "projectUniqueName": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj",
         "projectName": "ShopMarket.Infrastrcuture",
-        "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj",
+        "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\obj\\",
+        "outputPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,8 +213,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
-                "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
               }
             }
           }
@@ -249,14 +253,14 @@
         }
       }
     },
-    "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj": {
+    "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+        "projectUniqueName": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
         "projectName": "ShopMarket.Services",
-        "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+        "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\obj\\",
+        "outputPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -273,8 +277,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
-                "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+              },
+              "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
+                "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj"
               }
             }
           }
@@ -294,6 +301,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.9.0, )"

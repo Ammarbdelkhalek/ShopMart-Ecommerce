@@ -12,3 +12,4 @@ D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\refint\ShopMarket
 D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.pdb
 D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.genruntimeconfig.cache
 D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ref\ShopMarket.Core.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Core\obj\Debug\net8.0\ShopMarket.Core.sourcelink.json

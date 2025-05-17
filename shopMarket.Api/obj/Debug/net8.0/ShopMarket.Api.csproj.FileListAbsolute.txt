@@ -167,3 +167,6 @@ D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\System.Security.Cr
 D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\ShopMarket.Infrastrcuture.dll
 D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\ShopMarket.Infrastrcuture.pdb
+D:\Projects\ShopMarket_WebApi\shopMarket.Api\obj\Debug\net8.0\shopMarket.Api.sourcelink.json
+D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\ShopMarket_WebApi\shopMarket.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

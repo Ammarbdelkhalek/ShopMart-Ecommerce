@@ -13,3 +13,4 @@ D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMar
 D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Core.dll
 D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\bin\Debug\net8.0\ShopMarket.Core.pdb
 D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMark.A8CD8983.Up2Date
+D:\Projects\ShopMarket_WebApi\ShopMarket.Infrastrcuture\obj\Debug\net8.0\ShopMarket.Infrastrcuture.sourcelink.json
