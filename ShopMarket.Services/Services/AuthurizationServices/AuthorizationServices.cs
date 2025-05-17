@@ -17,7 +17,6 @@ namespace ShopMarket.Services.Services.AuthurizationServices
 {
     public class AuthorizationServices(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager) : IAuthorizeServices
     {
-
         public IEnumerable<IdentityRole> GetAllRoles()
         {
             var roles = roleManager.Roles.ToList();
@@ -28,7 +27,6 @@ namespace ShopMarket.Services.Services.AuthurizationServices
             }
             return roles;
         }
-
         public async Task<IEnumerable<ApplicationUser>> GetAllUsers()
         {
             var users = await userManager.Users.ToArrayAsync();
@@ -38,7 +36,6 @@ namespace ShopMarket.Services.Services.AuthurizationServices
             }
             return users;
         }
-        
         public async Task<ResponseModel> AssignUserToRole(UsersRoleDto dto)
         {
             

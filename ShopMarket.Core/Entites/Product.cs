@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -16,7 +17,7 @@ namespace ShopMarket.Core.Entites
         public double Price { get; set; }
         public int StockAmount { get; set; }
         public double? DiscountPercentage { get; set; }
-        public byte[]? Image { get; set; }
+        public string? Image { get; set; }
         public int? CategoryId { get; set; }
         public int? BrandId { get; set; }
 

@@ -17,16 +17,13 @@
     <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="8.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ShopMarket.Core\ShopMarket.Core.csproj" />
     <ProjectReference Include="..\ShopMarket.Infrastrcuture\ShopMarket.Infrastrcuture.csproj" />
     <ProjectReference Include="..\ShopMarket.Services\ShopMarket.Services.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ActionFilter\" />
   </ItemGroup>
 
 </Project>

@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
     <PackageReference Include="MailKit" Version="4.9.0" />
     <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
@@ -14,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShopMarket.Core\ShopMarket.Core.csproj" />
+    <ProjectReference Include="..\ShopMarket.Infrastrcuture\ShopMarket.Infrastrcuture.csproj" />
   </ItemGroup>
 
 </Project>

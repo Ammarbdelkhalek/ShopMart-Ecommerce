@@ -3,32 +3,203 @@
   "WorkspaceRootPath": "D:\\Projects\\ShopMarket_WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\reviewservices\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\reviewservices\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\rolemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\rolemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\mapping\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\mapping\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\specification\\evaluationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\specification\\evaluationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\reviewservices\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\reviewservices\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\reviewdto\\createorupdatereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\reviewdto\\createorupdatereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\reviewdto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\reviewdto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\review-service-implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\rolemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\rolemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\brandservices\\brandservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\brandservices\\brandservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authurizationservices\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authurizationservices\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\categoryservices\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\categoryservices\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\errors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\errors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\mapping\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\mapping\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\mapping\\brandprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\mapping\\brandprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\categoryservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\categoryservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\categorydto\\reateorupdatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\categorydto\\reateorupdatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\brandservices\\ibrandservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\brandservices\\ibrandservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\categorydto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\categorydto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\branddto\\createorupdatebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\branddto\\createorupdatebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\branddto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\branddto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\utilities\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\utilities\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\productcdto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\productcdto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\productcdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\productcdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\shopmarket.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\shopmarket.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\actionfilter\\filevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\actionfilter\\filevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\actionfilter\\modelstatevlaidationactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\actionfilter\\modelstatevlaidationactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\specification\\productwithspecification\\productwithcatgeoryandbrandandtypespecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\specification\\productwithspecification\\productwithcatgeoryandbrandandtypespecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\mapping\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\mapping\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\imageresolver\\productdeatailsimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\imageresolver\\productdeatailsimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\imageresolver\\productimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\imageresolver\\productimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,80 +210,32 @@
       "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\middelware\\customexceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\middelware\\customexceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\actionfilter\\modelstatevlaidationactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\actionfilter\\modelstatevlaidationactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authurizationservices\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authurizationservices\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authservices\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\repository\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\repository\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\interfaces\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\interfaces\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\interfaces\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\interfaces\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\specification\\productwithspecification\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\specification\\productwithspecification\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\productcdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\productcdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\specification\\evaluationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\specification\\evaluationspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\productcdto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\productcdto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\specification\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,48 +246,36 @@
       "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\rolemanagementdto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\rolemanagementdto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\interfaces\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\interfaces\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authurizationservices\\iauthorizeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authurizationservices\\iauthorizeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\dbcontextandidentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\dbcontextandidentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\userroels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\userroels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\rolemanagementdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\rolemanagementdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\emailservices\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\emailservices\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\restpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\restpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\migrations\\20250206154301_ remove identity role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\migrations\\20250206154301_ remove identity role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\emailservices\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\emailservices\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\dbcontextandidentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\dbcontextandidentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,44 +290,68 @@
       "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\emaildto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\middelware\\customexceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\middelware\\customexceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authservices\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.infrastrcuture\\repository\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6E7F0-EAB7-4C58-8002-A49A40FAB3B4}|ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj|solutionrelative:shopmarket.infrastrcuture\\repository\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\rolemanagementdto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\rolemanagementdto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\authurizationservices\\iauthorizeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\authurizationservices\\iauthorizeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.api\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A03CE0-9AC7-4383-BEBD-96373AD3256D}|shopMarket.Api\\shopMarket.Api.csproj|solutionrelative:shopmarket.api\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\userroels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\userroels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\rolemanagementdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\rolemanagementdto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\restpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\restpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\services\\emailservices\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\services\\emailservices\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\errors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\errors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.services\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46B8937A-A95C-4EEB-9D00-308C8221373F}|ShopMarket.Services\\ShopMarket.Services.csproj|solutionrelative:shopmarket.services\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\wishlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\wishlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\entites\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\entites\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\migrations\\20250107205858_add role table .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -227,8 +362,8 @@
       "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\migrations\\20250107190903_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\migrations\\20250206154301_ remove identity role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\migrations\\20250206154301_ remove identity role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|d:\\projects\\shopmarket_webapi\\shopmarket.core\\migrations\\20250507161935_edit the image from byte array to string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44954D7-6B75-4493-98F3-16E6391D4E67}|ShopMarket.Core\\ShopMarket.Core.csproj|solutionrelative:shopmarket.core\\migrations\\20250507161935_edit the image from byte array to string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -238,7 +373,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,189 +385,524 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Category.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Category.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Category.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ReviewProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\ReviewProfile.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Mapping\\ReviewProfile.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\ReviewProfile.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Mapping\\ReviewProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:48:52.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderItems.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\OrderItems.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\OrderItems.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\OrderItems.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\OrderItems.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:10.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Orders.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Orders.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Orders.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Orders.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:11.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Payment.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Payment.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Payment.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Payment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:12.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Product.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Product.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Product.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Product.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwBcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:13.728Z",
+              "WhenOpened": "2025-05-17T16:25:06.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Data\\ApplicationDbContext.cs*",
-              "RelativeToolTip": "ShopMarket.Core\\Data\\ApplicationDbContext.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Title": "ReviewServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ReviewServices\\ReviewServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\ReviewServices\\ReviewServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ReviewServices\\ReviewServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\ReviewServices\\ReviewServices.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:45:16.393Z",
+              "WhenOpened": "2025-05-17T15:47:26.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReviewServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ReviewServices\\IReviewServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\ReviewServices\\IReviewServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ReviewServices\\IReviewServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\ReviewServices\\IReviewServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:39:26.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrUpdateReview.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ReviewDto\\CreateOrUpdateReview.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ReviewDto\\CreateOrUpdateReview.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ReviewDto\\CreateOrUpdateReview.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ReviewDto\\CreateOrUpdateReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:36:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ReviewDto\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ReviewDto\\ReviewDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ReviewDto\\ReviewDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ReviewDto\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:35:27.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ProductServices\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\ProductServices\\ProductServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ProductServices\\ProductServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\ProductServices\\ProductServices.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:52:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvaluationSpecification.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
+              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:30:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:44:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Error.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Errors\\Error.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Error.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Errors\\Error.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:07:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "shopMarket.Api\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:47:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "shopMarket.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:46:28.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\AuthenticationController.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "shopMarket.Api\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:19:35.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Pagination\\Pagination.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Pagination\\Pagination.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Pagination\\Pagination.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Pagination\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:29:51.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "shopMarket.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:47:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RoleManagmentController.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\RoleManagmentController.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\RoleManagmentController.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\RoleManagmentController.cs",
               "RelativeToolTip": "shopMarket.Api\\Controllers\\RoleManagmentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T15:11:34.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartItems.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\CartItems.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\CartItems.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\CartItems.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\CartItems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Orders.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Orders.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Orders.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Orders.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:48:50.8Z",
+              "WhenOpened": "2024-12-19T12:46:11.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Cart.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Cart.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Cart.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\OrderItems.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\OrderItems.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\OrderItems.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\OrderItems.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:48:48.443Z",
+              "WhenOpened": "2024-12-19T12:46:10.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Brand.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Brand.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Brand.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "review-service-implementation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\review-service-implementation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\review-service-implementation.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAAAIBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:48:45.971Z",
+              "WhenOpened": "2025-05-17T15:22:02.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAswLQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:00:17.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\CategoryServices\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\CategoryServices\\CategoryServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\CategoryServices\\CategoryServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\CategoryServices\\CategoryServices.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:31:08.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "review.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\review.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\review.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\review.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\review.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:36.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\BrandServices\\BrandServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\BrandServices\\BrandServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\BrandServices\\BrandServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\BrandServices\\BrandServices.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA8wBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:53:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorizationServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwCwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:25:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Helper\\ResponseModel.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\ResponseModel.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Helper\\ResponseModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:46:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Result.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Errors\\Result.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Result.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Errors\\Result.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:20:27.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ProductServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\ProductServices\\IProductService.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\ProductServices\\IProductService.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\ProductServices\\IProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:53:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Program.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Program.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Program.cs*",
-              "RelativeToolTip": "shopMarket.Api\\Program.cs*",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAArAAAA",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Program.cs",
+              "RelativeToolTip": "shopMarket.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T18:03:56.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "shopMarket.Api\\appsettings.json",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\appsettings.json",
-              "RelativeToolTip": "shopMarket.Api\\appsettings.json",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T15:40:10.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomExceptionHandlerMiddelWare.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
-              "RelativeDocumentMoniker": "shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
-              "RelativeToolTip": "shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "DocumentIndex": 29,
+              "Title": "brandProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\brandProfile.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Mapping\\brandProfile.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\brandProfile.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Mapping\\brandProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:18:30.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T22:41:27.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
+              "Title": "categoryProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\categoryProfile.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Mapping\\categoryProfile.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\categoryProfile.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Mapping\\categoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:43:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\Configuration\\DependancyInjection.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\DependancyInjection.cs",
+              "RelativeToolTip": "shopMarket.Api\\Configuration\\DependancyInjection.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:24:09.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\CategoryServices\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\CategoryServices\\ICategoryServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\CategoryServices\\ICategoryServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\CategoryServices\\ICategoryServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:28:39.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "reateOrUpdateCategory.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\CategoryDto\\reateOrUpdateCategory.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\CategoryDto\\reateOrUpdateCategory.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\CategoryDto\\reateOrUpdateCategory.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\CategoryDto\\reateOrUpdateCategory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:27:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "categoryDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\CategoryDto\\categoryDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\CategoryDto\\categoryDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\CategoryDto\\categoryDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\CategoryDto\\categoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:26:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\BrandDto\\BrandDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\BrandDto\\BrandDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\BrandDto\\BrandDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\BrandDto\\BrandDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:57:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrUpdateBrandDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\BrandDto\\CreateOrUpdateBrandDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\BrandDto\\CreateOrUpdateBrandDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\BrandDto\\CreateOrUpdateBrandDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\BrandDto\\CreateOrUpdateBrandDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:52:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBrandServices.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\BrandServices\\IBrandServices.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\BrandServices\\IBrandServices.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\BrandServices\\IBrandServices.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Services\\BrandServices\\IBrandServices.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:56:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\ActionFilter\\FileValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\ActionFilter\\FileValidatorAttribute.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\ActionFilter\\FileValidatorAttribute.cs",
+              "RelativeToolTip": "shopMarket.Api\\ActionFilter\\FileValidatorAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:25:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ImageConverter.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Utilities\\ImageConverter.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Utilities\\ImageConverter.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Utilities\\ImageConverter.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Utilities\\ImageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:24:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShopMarket.Services.csproj",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\ShopMarket.Services.csproj",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+              "RelativeToolTip": "ShopMarket.Services\\ShopMarket.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T20:27:38.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ProductcDto\\ProductDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\ProductDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ProductcDto\\ProductDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:17:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ProductcDto\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\UpdateProductDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ProductcDto\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ModelStateVlaidationActionFilter.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\ActionFilter\\ModelStateVlaidationActionFilter.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\ActionFilter\\ModelStateVlaidationActionFilter.cs",
@@ -440,12 +910,215 @@
               "RelativeToolTip": "shopMarket.Api\\ActionFilter\\ModelStateVlaidationActionFilter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:32:56.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:32:56.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 43,
+              "Title": "ProductWithCatgeoryAndBrandAndTypeSpecs.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductWithCatgeoryAndBrandAndTypeSpecs.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductWithCatgeoryAndBrandAndTypeSpecs.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductWithCatgeoryAndBrandAndTypeSpecs.cs",
+              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductWithCatgeoryAndBrandAndTypeSpecs.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:40:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "shopMarket.Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\appsettings.json",
+              "RelativeToolTip": "shopMarket.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T15:40:10.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\Mapping\\ProductMappingProfile.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Mapping\\ProductMappingProfile.cs",
+              "RelativeToolTip": "ShopMarket.Services\\Mapping\\ProductMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:00:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductDeatailsImageResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ImageResolver\\ProductDeatailsImageResolver.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\ImageResolver\\ProductDeatailsImageResolver.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ImageResolver\\ProductDeatailsImageResolver.cs",
+              "RelativeToolTip": "ShopMarket.Services\\ImageResolver\\ProductDeatailsImageResolver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:21:55.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductImageResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ImageResolver\\ProductImageResolver.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\ImageResolver\\ProductImageResolver.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ImageResolver\\ProductImageResolver.cs",
+              "RelativeToolTip": "ShopMarket.Services\\ImageResolver\\ProductImageResolver.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:07:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250507161935_Edit the image from byte array to string.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250507161935_Edit the image from byte array to string.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Migrations\\20250507161935_Edit the image from byte array to string.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250507161935_Edit the image from byte array to string.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Migrations\\20250507161935_Edit the image from byte array to string.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:19:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductDetailsDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\ProductDetailsDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ProductcDto\\ProductDetailsDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\ProductDetailsDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ProductcDto\\ProductDetailsDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\ProductcDto\\CreateProductDto.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\ProductcDto\\CreateProductDto.cs",
+              "RelativeToolTip": "ShopMarket.Services\\DTOS\\ProductcDto\\CreateProductDto.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:19:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductSpecification.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductSpecification.cs",
+              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\ProductWithSpecification\\ProductSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:37:59.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Category.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Category.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:48:52.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Payment.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Payment.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Payment.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Product.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Product.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:45:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\CartItems.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\CartItems.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\CartItems.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\CartItems.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:48:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Cart.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Cart.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Cart.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Cart.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:48:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Brand.cs",
+              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\Brand.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\Brand.cs",
+              "RelativeToolTip": "ShopMarket.Core\\Entites\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:48:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CustomExceptionHandlerMiddelWare.cs",
+              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
+              "RelativeDocumentMoniker": "shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
+              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
+              "RelativeToolTip": "shopMarket.Api\\MiddelWare\\CustomExceptionHandlerMiddelWare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:18:30.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\ApplicationUser.cs",
@@ -453,62 +1126,23 @@
               "RelativeToolTip": "ShopMarket.Core\\Entites\\ApplicationUser.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAmwA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T21:18:25.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T21:18:25.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AuthorizationServices.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs*",
-              "RelativeToolTip": "ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs*",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwFIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T14:25:31.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthServices.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
-              "RelativeToolTip": "ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAIA7wCgBAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:00:17.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "testController.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\testController.cs",
-              "RelativeDocumentMoniker": "shopMarket.Api\\Controllers\\testController.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Controllers\\testController.cs",
-              "RelativeToolTip": "shopMarket.Api\\Controllers\\testController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T20:05:12.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 55,
               "Title": "IUOW.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\interfaces\\IUOW.cs",
               "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\interfaces\\IUOW.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\interfaces\\IUOW.cs",
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\interfaces\\IUOW.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T22:43:54.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 77,
               "Title": "UserRoleDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\RoleManagementDto\\UserRoleDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\RoleManagementDto\\UserRoleDto.cs",
@@ -520,19 +1154,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 74,
               "Title": "IAuthServices.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\IAuthServices.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthServices\\IAuthServices.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthServices\\IAuthServices.cs",
               "RelativeToolTip": "ShopMarket.Services\\Services\\AuthServices\\IAuthServices.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAABDAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBMAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T19:50:04.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 75,
               "Title": "updateProfileDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\updateProfileDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\updateProfileDto.cs",
@@ -544,7 +1178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 76,
               "Title": "UOW.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Repository\\UOW.cs",
               "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Repository\\UOW.cs",
@@ -556,91 +1190,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DependancyInjection.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\DependancyInjection.cs",
-              "RelativeDocumentMoniker": "shopMarket.Api\\Configuration\\DependancyInjection.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\DependancyInjection.cs",
-              "RelativeToolTip": "shopMarket.Api\\Configuration\\DependancyInjection.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:24:09.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Services\\Helper\\ResponseModel.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\ResponseModel.cs",
-              "RelativeToolTip": "ShopMarket.Services\\Helper\\ResponseModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T13:46:48.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvxEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:44:35.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 61,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\interfaces\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\interfaces\\IGenericInterface.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\interfaces\\IGenericInterface.cs",
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\interfaces\\IGenericInterface.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAzwA8AAAAMAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T22:40:58.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 60,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ISpecification.cs",
               "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\ISpecification.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\ISpecification.cs",
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\ISpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T23:54:15.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 59,
               "Title": "Specification.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\Specification.cs",
               "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\Specification.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\Specification.cs",
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\Specification.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T00:00:22.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EvaluationSpecification.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
-              "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T00:30:42.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 78,
               "Title": "IAuthorizeServices.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\AuthurizationServices\\IAuthorizeServices.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\AuthurizationServices\\IAuthorizeServices.cs",
@@ -652,7 +1238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 79,
               "Title": "JwtConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\JwtConfiguration.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Configuration\\JwtConfiguration.cs",
@@ -664,19 +1250,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 67,
               "Title": "20250206154301_ remove identity role.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250206154301_ remove identity role.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Migrations\\20250206154301_ remove identity role.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250206154301_ remove identity role.cs",
               "RelativeToolTip": "ShopMarket.Core\\Migrations\\20250206154301_ remove identity role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T15:43:02.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 68,
               "Title": "DbcontextAndIdentityConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\DbcontextAndIdentityConfiguration.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Configuration\\DbcontextAndIdentityConfiguration.cs",
@@ -688,7 +1274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 80,
               "Title": "UserRoels.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\UserRoels.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\UserRoels.cs",
@@ -700,7 +1286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 81,
               "Title": "RoleDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\RoleManagementDto\\RoleDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\RoleManagementDto\\RoleDto.cs",
@@ -712,31 +1298,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 66,
               "Title": "EmailServices.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\EmailServices\\EmailServices.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\EmailServices\\EmailServices.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\EmailServices\\EmailServices.cs",
               "RelativeToolTip": "ShopMarket.Services\\Services\\EmailServices\\EmailServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T20:08:15.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 82,
               "Title": "RestPasswordDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\RestPasswordDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\RestPasswordDto.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\RestPasswordDto.cs",
               "RelativeToolTip": "ShopMarket.Services\\DTOS\\AuthDtos\\RestPasswordDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T21:39:24.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 83,
               "Title": "IEmailServices.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Services\\EmailServices\\IEmailServices.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Services\\EmailServices\\IEmailServices.cs",
@@ -748,7 +1334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 84,
               "Title": "ForgetPasswordDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\ForgetPasswordDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\ForgetPasswordDto.cs",
@@ -760,7 +1346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 65,
               "Title": "AuthModel.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\AuthModel.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Helper\\AuthModel.cs",
@@ -772,7 +1358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 69,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\ChangePasswordDto.cs",
@@ -784,7 +1370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 70,
               "Title": "SeriLgConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\shopMarket.Api\\Configuration\\SeriLgConfiguration.cs",
               "RelativeDocumentMoniker": "shopMarket.Api\\Configuration\\SeriLgConfiguration.cs",
@@ -796,7 +1382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 64,
               "Title": "EmailHelper.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\EmailHelper.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Helper\\EmailHelper.cs",
@@ -808,7 +1394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 71,
               "Title": "EmailDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\EmailDto\\EmailDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\EmailDto\\EmailDto.cs",
@@ -820,19 +1406,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\RefreshToken.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\RefreshToken.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\RefreshToken.cs",
               "RelativeToolTip": "ShopMarket.Core\\Entites\\RefreshToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAABBwBUAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T12:46:15.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 63,
               "Title": "JwtHelper.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\Helper\\JwtHelper.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\Helper\\JwtHelper.cs",
@@ -844,19 +1430,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 85,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\RegisterDto.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\RegisterDto.cs",
               "RelativeToolTip": "ShopMarket.Services\\DTOS\\AuthDtos\\RegisterDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T21:23:22.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 88,
               "Title": "20250107205858_add role table .cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250107205858_add role table .cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Migrations\\20250107205858_add role table .cs",
@@ -868,7 +1454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 89,
               "Title": "20250107190903_intial migration.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Migrations\\20250107190903_intial migration.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Migrations\\20250107190903_intial migration.cs",
@@ -880,31 +1466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Result.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Errors\\Result.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Result.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Errors\\Result.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAADgvykAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:20:27.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Error.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Error.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Errors\\Error.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Errors\\Error.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Errors\\Error.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAACBjwA4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:07:22.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 86,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\DTOS\\AuthDtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "ShopMarket.Services\\DTOS\\AuthDtos\\LoginDto.cs",
@@ -916,19 +1478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "review.cs",
-              "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\review.cs",
-              "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\review.cs",
-              "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\review.cs",
-              "RelativeToolTip": "ShopMarket.Core\\Entites\\review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAEBVwA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:36.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 87,
               "Title": "WishListItems.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\WishListItems.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\WishListItems.cs",
@@ -940,13 +1490,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 47,
               "Title": "WishList.cs",
               "DocumentMoniker": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\WishList.cs",
               "RelativeDocumentMoniker": "ShopMarket.Core\\Entites\\WishList.cs",
               "ToolTip": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\Entites\\WishList.cs",
               "RelativeToolTip": "ShopMarket.Core\\Entites\\WishList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAPAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T12:46:38.887Z"
             }

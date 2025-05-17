@@ -344,6 +344,8 @@ namespace ShopMarket.Services.Services.AuthServices
             {
                 claims.Add(new Claim(ClaimTypes.Role, role));
             }
+
+            // key encrypted 
             var SecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(options.Value.key));
             var securityCredintial = new SigningCredentials(SecurityKey, SecurityAlgorithms.Aes128CbcHmacSha256);
 
@@ -377,7 +379,6 @@ namespace ShopMarket.Services.Services.AuthServices
                 code += random.Next(0,10).ToString();
             }
             return code;
-
         }
          
 

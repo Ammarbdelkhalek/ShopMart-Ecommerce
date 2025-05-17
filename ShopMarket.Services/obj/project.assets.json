@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/14.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -1537,10 +1553,38 @@
         "runtime": {
           "bin/placeholder/ShopMarket.Core.dll": {}
         }
+      },
+      "ShopMarket.Infrastrcuture/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ShopMarket.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopMarket.Infrastrcuture.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopMarket.Infrastrcuture.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "AutoMapper/14.0.0": {
+      "sha512": "OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
+      "type": "package",
+      "path": "automapper/14.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.14.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net8.0/AutoMapper.dll",
+        "lib/net8.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -3823,14 +3867,21 @@
       "type": "project",
       "path": "../ShopMarket.Core/ShopMarket.Core.csproj",
       "msbuildProject": "../ShopMarket.Core/ShopMarket.Core.csproj"
+    },
+    "ShopMarket.Infrastrcuture/1.0.0": {
+      "type": "project",
+      "path": "../ShopMarket.Infrastrcuture/ShopMarket.Infrastrcuture.csproj",
+      "msbuildProject": "../ShopMarket.Infrastrcuture/ShopMarket.Infrastrcuture.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper >= 14.0.0",
       "MailKit >= 4.9.0",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
-      "ShopMarket.Core >= 1.0.0"
+      "ShopMarket.Core >= 1.0.0",
+      "ShopMarket.Infrastrcuture >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3839,11 +3890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+      "projectUniqueName": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
       "projectName": "ShopMarket.Services",
-      "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
+      "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\ShopMarket.Services.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\obj\\",
+      "outputPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3860,8 +3911,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
-              "projectPath": "D:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+            "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj": {
+              "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Core\\ShopMarket.Core.csproj"
+            },
+            "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj": {
+              "projectPath": "d:\\Projects\\ShopMarket_WebApi\\ShopMarket.Infrastrcuture\\ShopMarket.Infrastrcuture.csproj"
             }
           }
         }
@@ -3881,6 +3935,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[14.0.0, )"
+          },
           "MailKit": {
             "target": "Package",
             "version": "[4.9.0, )"

@@ -456,8 +456,8 @@ namespace ShopMarket.Core.Migrations
                     b.Property<double?>("DiscountPercentage")
                         .HasColumnType("float");
 
-                    b.Property<byte[]>("Image")
-                        .HasColumnType("varbinary(max)");
+                    b.Property<string>("Image")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()

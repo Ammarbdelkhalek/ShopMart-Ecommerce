@@ -13,3 +13,6 @@ D:\Projects\ShopMarket_WebApi\ShopMarket.Services\obj\Debug\net8.0\ShopMarket.Se
 D:\Projects\ShopMarket_WebApi\ShopMarket.Services\obj\Debug\net8.0\refint\ShopMarket.Services.dll
 D:\Projects\ShopMarket_WebApi\ShopMarket.Services\obj\Debug\net8.0\ShopMarket.Services.pdb
 D:\Projects\ShopMarket_WebApi\ShopMarket.Services\obj\Debug\net8.0\ref\ShopMarket.Services.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Services\obj\Debug\net8.0\ShopMarket.Services.sourcelink.json
+D:\Projects\ShopMarket_WebApi\ShopMarket.Services\bin\Debug\net8.0\ShopMarket.Infrastrcuture.dll
+D:\Projects\ShopMarket_WebApi\ShopMarket.Services\bin\Debug\net8.0\ShopMarket.Infrastrcuture.pdb

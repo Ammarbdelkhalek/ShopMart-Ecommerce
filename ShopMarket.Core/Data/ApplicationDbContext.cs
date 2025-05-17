@@ -26,7 +26,6 @@ namespace ShopMarket.Core.Data
         public DbSet<OrderItems> OrderItems { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<ApplicationUser> Users { get; set; }
-        
         public DbSet<Review> Reviews { get; set; }
         public DbSet<CartItems> CartItems { get; set; }
         public DbSet<Category> Categories { get; set; }
