@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMarket.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f626d5f1a36728c82ee18ff0be16bd41648533a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eee2c9a466012dc422986096b865228190a033f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMarket.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMarket.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

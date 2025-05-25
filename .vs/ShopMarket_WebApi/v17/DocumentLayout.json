@@ -393,8 +393,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Mapping\\ReviewProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T16:25:06.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T16:25:06.692Z"
             },
             {
               "$type": "Document",
@@ -419,8 +418,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\ReviewServices\\IReviewServices.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:39:26.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:39:26.043Z"
             },
             {
               "$type": "Document",
@@ -432,8 +430,7 @@
               "RelativeToolTip": "ShopMarket.Services\\DTOS\\ReviewDto\\CreateOrUpdateReview.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:36:35.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:36:35.463Z"
             },
             {
               "$type": "Document",
@@ -445,8 +442,7 @@
               "RelativeToolTip": "ShopMarket.Services\\DTOS\\ReviewDto\\ReviewDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:35:27.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:35:27.075Z"
             },
             {
               "$type": "Document",
@@ -458,8 +454,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\ProductServices\\ProductServices.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAYwBcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:52:05.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:52:05.399Z"
             },
             {
               "$type": "Document",
@@ -471,8 +466,7 @@
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\Specification\\EvaluationSpecification.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T00:30:42.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T00:30:42.384Z"
             },
             {
               "$type": "Document",
@@ -484,8 +478,7 @@
               "RelativeToolTip": "ShopMarket.Infrastrcuture\\Repository\\GenericRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:44:35.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T22:44:35.608Z"
             },
             {
               "$type": "Document",
@@ -497,8 +490,7 @@
               "RelativeToolTip": "ShopMarket.Core\\Errors\\Error.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:07:22.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T23:07:22.02Z"
             },
             {
               "$type": "Document",
@@ -510,8 +502,7 @@
               "RelativeToolTip": "shopMarket.Api\\Controllers\\BrandController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:47:31.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T22:47:31.635Z"
             },
             {
               "$type": "Document",
@@ -523,8 +514,7 @@
               "RelativeToolTip": "shopMarket.Api\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:46:28.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T22:46:28.161Z"
             },
             {
               "$type": "Document",
@@ -536,8 +526,7 @@
               "RelativeToolTip": "shopMarket.Api\\Controllers\\AuthenticationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:19:35.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T19:19:35.386Z"
             },
             {
               "$type": "Document",
@@ -549,8 +538,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Pagination\\Pagination.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:29:51.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T15:29:51.435Z"
             },
             {
               "$type": "Document",
@@ -562,8 +550,7 @@
               "RelativeToolTip": "shopMarket.Api\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:47:50.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T22:47:50.615Z"
             },
             {
               "$type": "Document",
@@ -575,8 +562,7 @@
               "RelativeToolTip": "shopMarket.Api\\Controllers\\RoleManagmentController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:11:34.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T15:11:34.589Z"
             },
             {
               "$type": "Document",
@@ -588,8 +574,7 @@
               "RelativeToolTip": "ShopMarket.Core\\Entites\\Orders.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:11.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T12:46:11.254Z"
             },
             {
               "$type": "Document",
@@ -601,8 +586,7 @@
               "RelativeToolTip": "ShopMarket.Core\\Entites\\OrderItems.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:10.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T12:46:10.048Z"
             },
             {
               "$type": "Document",
@@ -612,8 +596,7 @@
               "ToolTip": "C:\\Users\\DELL\\Downloads\\review-service-implementation.cs",
               "ViewState": "AQIAAAIBAAAAAAAAAAAAAAIBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:22:02.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:22:02.229Z"
             },
             {
               "$type": "Document",
@@ -625,8 +608,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\AuthServices\\AuthServices.cs",
               "ViewState": "AQIAAKcAAAAAAAAAAAAswLQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:00:17.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:00:17.599Z"
             },
             {
               "$type": "Document",
@@ -638,8 +620,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\CategoryServices\\CategoryServices.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAAADgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:31:08.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T22:31:08.09Z"
             },
             {
               "$type": "Document",
@@ -651,8 +632,7 @@
               "RelativeToolTip": "ShopMarket.Core\\Entites\\review.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAMwBIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:46:36.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T12:46:36.29Z"
             },
             {
               "$type": "Document",
@@ -664,8 +644,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\BrandServices\\BrandServices.cs",
               "ViewState": "AQIAABEAAAAAAAAAAIA8wBgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T21:53:41.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T21:53:41.952Z"
             },
             {
               "$type": "Document",
@@ -677,8 +656,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\AuthurizationServices\\AuthorizationServices.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAgwCwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T14:25:31.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T14:25:31.766Z"
             },
             {
               "$type": "Document",
@@ -690,8 +668,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Helper\\ResponseModel.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAkwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T13:46:48.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T13:46:48.727Z"
             },
             {
               "$type": "Document",
@@ -703,8 +680,7 @@
               "RelativeToolTip": "ShopMarket.Core\\Errors\\Result.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAA7wA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:20:27.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T23:20:27.769Z"
             },
             {
               "$type": "Document",
@@ -716,8 +692,7 @@
               "RelativeToolTip": "ShopMarket.Services\\Services\\ProductServices\\IProductService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:53:31.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:53:31.063Z"
             },
             {
               "$type": "Document",
@@ -729,8 +704,7 @@
               "RelativeToolTip": "shopMarket.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:03:56.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T18:03:56.083Z"
             },
             {
               "$type": "Document",
